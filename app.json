@@ -13,7 +13,7 @@
       "backgroundColor": "#383A3C"
     },
     "updates": {
-      "useClassicUpdates": true
+      "url": "https://u.expo.dev/e9ebf83e-21bc-46eb-9270-c9499a132683"
     },
     "assetBundlePatterns": ["**/*"],
     "ios": {
@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {}
+    },
+    "runtimeVersion": {
+      "policy": "sdkVersion"
     }
   }
 }
